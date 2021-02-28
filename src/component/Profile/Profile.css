@@ -1,0 +1,36 @@
+.Hire-button{
+    background-color: goldenrod;
+    border: 1px solid lightgray;
+    width: 200px;
+    padding: .3rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Profile-flex{
+    display: flex;
+    margin-left: 150px;
+    /* border: 1px solid red; */
+    background-color: #1ca7b4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.Profile-class img{
+    width: 300px;
+}
+
+.Profile-details{
+    margin-left: 5rem;
+}
+
+.Profile-details h2{
+    color: white;
+}
+.Profile-details h4{
+    color: red;
+}
+/* .Profile-class h3{
+    margin-left: 25px;
+    color: 
+} */

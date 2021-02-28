@@ -1,0 +1,10 @@
+.All-section{
+    display:flex;
+}
+.Friend-section{
+    width: 70%;
+}
+.Cart-section{
+    margin-left: 2rem;
+   
+}
