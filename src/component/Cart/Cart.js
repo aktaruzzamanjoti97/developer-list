@@ -16,6 +16,7 @@ const Cart = (props) => {
             <h1>Developers Summary</h1>
             <h2>Added members: {cart.length} </h2>
             <h2>Total Salaries You Have to Pay Them: <br/> <span className='total'>${totalSalaries}/per month</span> </h2>
+            <button className='Hire-button'>Confirm</button>
             
         </div>
     );
